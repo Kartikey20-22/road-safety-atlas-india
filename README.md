@@ -49,8 +49,4 @@ streamlit run app.py
 1. Push this project to GitHub.
 2. Create a new app on Streamlit Community Cloud.
 3. Select this repository and set the main file path to `app.py`.
-4. Deploy and share the generated app URL.
-
-## Live Demo
-
-[Open the current deployed version](https://acci-trends.streamlit.app/)
+4. Deploy and share the generated app url 
